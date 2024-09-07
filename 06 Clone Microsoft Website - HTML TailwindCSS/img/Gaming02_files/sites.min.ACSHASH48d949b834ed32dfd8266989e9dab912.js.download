@@ -1,0 +1,1 @@
+'use strict';$(function(){var a=document.querySelector("#msChatContainer"),b=document.querySelector(".back-to-top.sticky"),c=document.querySelector(".fixed-back-to-top.fixed-sticky");a&&b&&$(b).addClass("pageHasChatContainer");a&&c&&$(c).addClass("pageHasChatContainer")});
