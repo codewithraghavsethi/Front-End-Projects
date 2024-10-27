@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 34,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "2024-10-21T09:54:40Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": null,
+            "title": "‘You are not my king,’ Indigenous Australian senator yells at visiting King Charles - The Associated Press",
+            "description": "An Indigenous senator told King Charles III that Australia is not his land as the British royal visited Australia’s parliament. Sen. Lidia Thorpe was escorted out of a parliamentary reception for the royal couple Monday after shouting that British colonizers …",
+            "url": "https://apnews.com/article/australia-canberra-king-charles-visit-4ea87d39d17c4a9fe3cbfab3455fb8f7",
+            "urlToImage": "https://dims.apnews.com/dims4/default/35d2b12/2147483647/strip/true/crop/5954x3349+0+310/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F14%2F0d%2F7c1938ecd6dfbdbed8050812e8ad%2Fb1277731640d4e8294aa57a4c6947b74",
+            "publishedAt": "2024-10-21T09:38:00Z",
+            "content": "CANBERRA, Australia (AP) An Indigenous senator told King Charles III that Australia is not his land as the British royal visited Australias parliament on Monday.\r\nSen. Lidia Thorpe was escorted out o… [+5036 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Daren Butler",
+            "title": "Gulen, the powerful cleric accused of orchestrating a Turkish coup, dies - Reuters",
+            "description": "The U.S.-based cleric Fethullah Gulen, who built a powerful Islamic movement in Turkey and beyond but spent his later years mired in accusations of orchestrating an attempted coup against Turkish leader Tayyip Erdogan, has died. He was 83.",
+            "url": "https://www.reuters.com/world/us/turkish-us-based-cleric-gulen-has-died-media-says-2024-10-21/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/76R6N7WYLRLIJO3646JM3LPKDU.jpg?auth=eda3d6b92c088f0cffd19c15a3da98118ec4266bcfd0c79e3ebff34b0228188c&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2024-10-21T09:17:23Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Tracy Swartz",
+            "title": "Strokes are common — here’s how to prevent most of them - New York Post ",
+            "description": "More than 600,000 Americans are expected to experience their first stroke this year — but up to 80% of these incidents may be preventable.",
+            "url": "https://nypost.com/2024/10/21/lifestyle/how-to-prevent-a-stroke-stroke-association-issues-new-advice/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/10/preventing-first-stroke-possible-screening-91885950.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2024-10-21T09:00:00Z",
+            "content": "More than 600,000 Americans are expected to experience their first stroke this year but up to 80% of these incidents may be preventable.\r\nThe American Stroke Association (ASA) issued updated advice o… [+3830 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Dahieh: The Beirut suburb bearing the brunt of Israeli bombing - BBC.com",
+            "description": "Families have been left in despair after parts of Dahieh, a densely packed residential area, were reduced to rubble",
+            "url": "https://www.bbc.com/news/articles/cz7jx575pg7o",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/af92/live/1e8fb4c0-8e35-11ef-89ae-5575c76d98e6.jpg",
+            "publishedAt": "2024-10-21T08:51:11Z",
+            "content": "An air strike on the edge of the Dahieh area that completely destroyed one building and damaged adjacent buildings, including a large gynaecology clinic\r\nThe air strike that killed the Hezbollah lead… [+11210 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "2024-10-21T08:39:05Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Angelica Stabile",
+            "title": "What is rucking? This popular fitness trend goes back to basics for big gains - Fox News",
+            "description": "A military training technique called rucking has become a popular, low-impact workout. GORUCK CEO Jason McCarthy and celebrity fitness trainer Kollins Ezekh gives tips on how to get started.",
+            "url": "https://www.foxnews.com/health/what-rucking-popular-fitness-trend-back-basics-big-gains",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/10/couple-rucking.jpg",
+            "publishedAt": "2024-10-21T08:30:00Z",
+            "content": "Join Fox News for access to this content\r\nPlus special access to select articles and other premium content with your account - free of charge.\r\nBy entering your email and pushing continue, you are ag… [+4623 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Khaleda Rahman",
+            "title": "McDonald's Donald Trump Worked at Failed Last Health Inspection - Newsweek",
+            "description": "An inspection report for the McDonald's restaurant in Pennsylvania cited employees not having \"hands clean and properly washed.\"",
+            "url": "https://www.newsweek.com/mcdonalds-donald-trump-worked-failed-last-health-inspection-1971998",
+            "urlToImage": "https://d.newsweek.com/en/full/2499814/former-president-donald-trump-mcdonalds.jpg",
+            "publishedAt": "2024-10-21T08:29:34Z",
+            "content": "The McDonald's restaurant where Republican presidential nominee Donald Trump briefly worked on Sunday failed its last health inspection, documents show.\r\nThe former president manned the fry station a… [+3952 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Elizabeth Wagmeister",
+            "title": "Sean ‘Diddy’ Combs named in at least 6 new lawsuits; other celebrities allegedly involved - CNN",
+            "description": "Six new civil lawsuits have been filed against Sean “Diddy” Combs, including one from an accuser who says they were a minor at the time they were allegedly drugged and assaulted by the music producer.",
+            "url": "https://www.cnn.com/2024/10/21/entertainment/sean-diddy-combs-new-lawsuits-monday/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1747401006-20241021063027279.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-10-21T07:18:00Z",
+            "content": "Six new civil lawsuits have been filed against Sean Diddy Combs, including one from an accuser who says they were a minor at the time they were allegedly drugged and assaulted by the music producer.\r… [+3685 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PhoneArena"
+            },
+            "author": "Daniel Petrov",
+            "title": "Samsung Galaxy Z Fold Special Edition is out with $2000 price and 200MP camera - PhoneArena",
+            "description": "More expensive than the regular Z Fold 6.",
+            "url": "https://www.phonearena.com/news/samsungs-galaxy-z-fold-special-edition-price-specs_id163935",
+            "urlToImage": "https://m-cdn.phonearena.com/images/article/163935-wide-two_1200/Samsung-Galaxy-Z-Fold-Special-Edition-is-out-with-2000-price-and-200MP-camera.jpg",
+            "publishedAt": "2024-10-21T07:07:08Z",
+            "content": "Enjoy the hottest mobile tech storylines, delivered straight to your inbox."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ScienceAlert"
+            },
+            "author": "The Conversation",
+            "title": "Millions of People's DNA in Doubt as 23andMe Faces Bankruptcy - ScienceAlert",
+            "description": "Since it was founded nearly two decades ago, 23andMe has grown into one of the largest biotechnology companies in the world.",
+            "url": "https://www.sciencealert.com/millions-of-peoples-dna-in-doubt-as-23andme-faces-bankruptcy",
+            "urlToImage": "https://www.sciencealert.com/images/2018-12/processed/027-dna-test-genome-placebo-body_1024.jpg",
+            "publishedAt": "2024-10-21T06:11:30Z",
+            "content": "Since it was founded nearly two decades ago, 23andMe has grown into one of the largest biotechnology companies in the world. Millions of people have used its simple genetic testing service, which inv… [+5910 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "DW (English)"
+            },
+            "author": "Deutsche Welle",
+            "title": "Moldova split on referendum to join EU - DW (English)",
+            "description": "Earlier preliminary results had indicted a majority \"no,\" but a surge of ballots from abroad provided last-minute support for EU membership. The referendum comes amid allegations of Russia-backed voter fraud",
+            "url": "https://www.dw.com/en/moldova-narrowly-votes-yes-to-eu-membership/a-70544401",
+            "urlToImage": "https://static.dw.com/image/70546920_6.jpg",
+            "publishedAt": "2024-10-21T06:11:15Z",
+            "content": "With more than 99 percent of the votes counted, the \"yes\" vote for EU membership was slightly ahead at 50.28 percent only 8,000 votes more than the anti-EU camp.\r\nEarlier, Moldovans appeared to have … [+4312 chars]"
+        },
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": "Brooke Pryor",
+            "title": "QB Wilson 'excellent' in debut as Steelers stroll - ESPN",
+            "description": "Veteran quarterback Russell Wilson shook off some rust amid boos from the hometown crowd to throw for 264 yards on Sunday night in a convincing 37-15 victory over the struggling New York Jets, an effort in which he accounted for three touchdowns.",
+            "url": "https://www.espn.com/nfl/story/_/id/41917609/russell-wilson-victorious-debut-pittsburgh-steelers",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F1021%2Fr1403518_1296x729_16%2D9.jpg",
+            "publishedAt": "2024-10-21T05:50:35Z",
+            "content": "PITTSBURGH -- As the offense trudged off the field following its third consecutive three-and-out early in the second quarter Monday night, loud boos rained down from a listless Acrisure Stadium crowd… [+5387 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Financial Times"
+            },
+            "author": null,
+            "title": "China cuts interest rates in battle to hit year-end growth target - Financial Times",
+            "description": "Beijing steps up efforts to reboot economy amid mounting pressure to achieve goal of about 5% growth",
+            "url": "https://www.ft.com/content/70526fd8-6ad2-42d3-8e0b-f67adcac0c9c",
+            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fbc9e856a-fd81-4bf4-9001-76319afe0985.jpg?source=next-barrier-page",
+            "publishedAt": "2024-10-21T05:35:07Z",
+            "content": "FT newspaper delivered Monday-Saturday, plus FT Digital Edition delivered to your device Monday-Saturday.\r\n<ul><li></li>Weekday Print Edition<li></li>FT Weekend<li></li>FT Digital Edition<li>Global n… [+105 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Notebookcheck.net"
+            },
+            "author": "Abid Ahsan Shanto",
+            "title": "OnePlus 13 launch date and color options officially confirmed - Notebookcheck.net",
+            "description": "The OnePlus 13 now has an official launch date. This new flagship phone will launch in China on October 31, after the Snapdragon 8 Elite is announced. Besides this, the company has also confirmed three color options for the phone.",
+            "url": "https://www.notebookcheck.net/OnePlus-13-launch-date-and-color-options-officially-confirmed.905009.0.html",
+            "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc4/OnePlus-13-launch-announcement.png",
+            "publishedAt": "2024-10-21T05:03:00Z",
+            "content": "After weeks of teasers and leaks, the OnePlus 13 finally has an official launch date. The company will be fully unveiling its new flagship phone on October 31 in China. It's still unclear when the ph… [+1473 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "BRIAN MAHONEY",
+            "title": "Jonquel Jones delivers WNBA Finals MVP performance to bail out Ice-cold Ionescu and Stewart - The Associated Press",
+            "description": "Sabrina Ionescu’s first shot hit the side of the backboard. Another one soon after hit nothing at all. After making one of the most memorable shots in WNBA history to win Game 3, the All-Star guard became Ice-cold Ionescu the rest of the way. Ionescu shot 1 f…",
+            "url": "https://apnews.com/article/wnba-finals-liberty-ionescu-stewart-jones-mvp-7d8f7f2d8a709049b24dc3a81c5c02b5",
+            "urlToImage": "https://dims.apnews.com/dims4/default/ea84d1b/2147483647/strip/true/crop/4064x2286+0+213/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F92%2Fa6%2F767acb5d5e61b474ff7b776e9447%2F27a2274bbd9047af831dd292077dce91",
+            "publishedAt": "2024-10-21T05:03:00Z",
+            "content": "NEW YORK (AP) Sabrina Ionescus first shot hit the side of the backboard. Another one soon after hit nothing at all. \r\nAfter making one of the most memorable shots in WNBA history to win Game 3, the A… [+3126 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Eonline.com"
+            },
+            "author": null,
+            "title": "Sister Wives: Kody Brown Says “If I’m in Love With a Woman, I Think That Is Her Fault” - E! Online - E! NEWS",
+            "description": "Kody Brown blamed his exes for his failure to love them while arguing with Meri Brown on the Oct. 20 episode of Sister Wives.",
+            "url": "https://www.eonline.com/news/1408790/sister-wives-kody-brown-says-if-im-in-love-with-a-woman-i-think-that-is-her-fault",
+            "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/2024917/cr_1200x1200-241017110510-Screenshot_2024-10-17_140340.png?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
+            "publishedAt": "2024-10-21T05:00:00Z",
+            "content": "Griping about the familys inability to pay off Coyote Pass, Janelle said Kody claimed to have \"all these other debts.\" And, yet, shes watched him snap up other assets like trailers and home décor. \"I… [+1239 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Jacob Lev",
+            "title": "Los Angeles Dodgers defeat New York Mets in NLCS Game 6 to earn World Series berth - CNN",
+            "description": "The Los Angeles Dodgers are heading to the World Series for the first time since 2020 after a 10-5 win over the New York Mets in Game 6 of the NL Championship Series.",
+            "url": "https://www.cnn.com/2024/10/20/sport/los-angeles-dodgers-world-series-spt-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap24295052602767.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-10-21T04:49:00Z",
+            "content": "The Los Angeles Dodgers are heading to the World Series for the first time since 2020 after a 10-5 win over the New York Mets in Game 6 of the NL Championship Series.\r\nThe Dodgers offense had been th… [+3344 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Jamie Carter",
+            "title": "Comet Tracker Tonight: When And Where To See It On Monday With ‘Shooting Stars’ - Forbes",
+            "description": "How, when, and where to look to see Comet C/2023 A3 (Tsuchinshan-ATLAS) after sunset this Monday, Oct. 21, with sky charts, before it gradually fades from view.",
+            "url": "https://www.forbes.com/sites/jamiecartereurope/2024/10/21/comet-tracker-for-monday-when-and-where-to-see-it-tonight-with-halleys-comet-shooting-stars/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/670d367cf5daaebc63be7d0b/0x0.jpg?format=jpg&crop=908,511,x0,y484,safe&height=900&width=1600&fit=bounds",
+            "publishedAt": "2024-10-21T04:30:00Z",
+            "content": "Comet C/2023 A3 over Caçapava, Brazil.\r\ngetty\r\nComet Tsuchinshan-ATLAS is now past it best, having transited from being a bright, naked-eye object in the post-sunset sky to a deep-sky object thats vi… [+3802 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Taylor Nicioli, Gina Park",
+            "title": "40% of parents said their teen consumed protein supplements in the past year, according to new poll - CNN",
+            "description": "Teen boys are more likely to consume protein supplements every day or most days than teen girls, a new Mott Poll finds. Here’s what experts have to say on the trend.",
+            "url": "https://www.cnn.com/2024/10/21/health/protein-supplement-teens-poll-wellness/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1491299434.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-10-21T04:15:00Z",
+            "content": "Sign up for CNNs Eat, But Better: Mediterranean Style. Our eight-part guide shows you a delicious expert-backed eating lifestyle that will boost your health for life.\r\nUsing those on-the-go protein s… [+4306 chars]"
+        }
+    ]
+}
