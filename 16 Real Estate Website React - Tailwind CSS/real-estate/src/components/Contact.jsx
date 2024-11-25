@@ -20,17 +20,38 @@ const Contact = () => {
         <div className="flex flex-wrap">
           <div className="w-full md:w-1/2 text-left">
             Your Name
-            <input className="w-full border border-gray-300 rounded py-3 px-4 mt-2" type="text" placeholder="Your Name" required name="Name"/>
+            <input
+              className="w-full border border-gray-300 rounded py-3 px-4 mt-2"
+              type="text"
+              placeholder="Your Name"
+              required
+              name="Name"
+            />
           </div>
           <div className="w-full md:w-1/2 text-left md:pl-4">
             Your Email
-            <input className="w-full border border-gray-300 rounded py-3 px-4 mt-2" type="email" placeholder="Your Email" required name="Email"/>
+            <input
+              className="w-full border border-gray-300 rounded py-3 px-4 mt-2"
+              type="email"
+              placeholder="Your Email"
+              required
+              name="Email"
+            />
           </div>
         </div>
 
-
-<div></div>
-
+        <div className="my-6 text-left">
+          Massage
+          <textarea
+            className="w-full border border-gray-300 rounded py-3 px-4 mt-2 h-48 resize-none"
+            name="Massage"
+            placeholder="Massage"
+            required
+          ></textarea>
+        </div>
+        <button className="bg-blue-600 text-white py-2 px-12 mb-10 rounded">
+          Send Massege
+        </button>
       </form>
     </div>
   );
