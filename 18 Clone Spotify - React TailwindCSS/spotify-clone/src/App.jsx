@@ -1,4 +1,4 @@
-import React from "react";
+import Navbar from "./components/Navbar";
 import Sidebar from "./components/Sidebar";
 
 const App = () => {
@@ -6,6 +6,7 @@ const App = () => {
     <div className="h-screen bg-black">
       <div className="h-[90%] flex">
         <Sidebar />
+        <Navbar />
       </div>
     </div>
   );
