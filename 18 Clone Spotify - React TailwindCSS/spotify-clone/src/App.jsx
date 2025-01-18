@@ -1,15 +1,11 @@
-import Navbar from "./components/Navbar";
-import Sidebar from "./components/Sidebar";
+import Sidebar from './components/Sidebar'
 
-const App = () => {
-  return (
-    <div className="h-screen bg-black">
-      <div className="h-[90%] flex">
-        <Sidebar />
-        <Navbar />
-      </div>
+function App() {
+   return (
+    <div className='hero'>
+      <Sidebar />
     </div>
-  );
-};
+  )
+}
 
-export default App;
+export default App
